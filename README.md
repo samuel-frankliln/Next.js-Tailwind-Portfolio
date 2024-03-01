@@ -6,3 +6,6 @@
 To install : yarn install
 to build : yarn run build
 to run : yarn run
+
+
+Created this website by following a tutorial .
